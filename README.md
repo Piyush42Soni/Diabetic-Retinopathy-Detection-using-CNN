@@ -57,5 +57,3 @@ Naive Bayesian Model
   
   ### Model confusion matrix
   <img src="https://github.com/Piyush42Soni/Diabetic-Retinopathy-Detection-using-CNN/blob/main/confusion%20_matrix_for_CNN.png" width=300 />
-  
-## **Conclusion: CNN models are better than ANN and the Naive Bayesian Model for binary classification.**
